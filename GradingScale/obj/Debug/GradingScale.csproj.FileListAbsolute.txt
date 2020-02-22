@@ -1,0 +1,10 @@
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.csprojAssemblyReference.cache
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.Properties.Resources.resources
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.csproj.GenerateResource.cache
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.csproj.CoreCompileInputs.cache
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\bin\Debug\GradingScale.exe.config
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\bin\Debug\GradingScale.exe
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\bin\Debug\GradingScale.pdb
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.exe
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.pdb
+C:\Users\TayIo\Google Drive\UNCG\C#\GradingScale\obj\Debug\GradingScale.Grade.resources

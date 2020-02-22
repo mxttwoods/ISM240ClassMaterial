@@ -1,0 +1,9 @@
+C:\Users\TayIo\source\repos\FlagsHW\bin\Debug\FlagsHW.exe.config
+C:\Users\TayIo\source\repos\FlagsHW\bin\Debug\FlagsHW.exe
+C:\Users\TayIo\source\repos\FlagsHW\bin\Debug\FlagsHW.pdb
+C:\Users\TayIo\source\repos\FlagsHW\obj\Debug\FlagsHW.Form1.resources
+C:\Users\TayIo\source\repos\FlagsHW\obj\Debug\FlagsHW.Properties.Resources.resources
+C:\Users\TayIo\source\repos\FlagsHW\obj\Debug\FlagsHW.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\FlagsHW\obj\Debug\FlagsHW.csproj.CoreCompileInputs.cache
+C:\Users\TayIo\source\repos\FlagsHW\obj\Debug\FlagsHW.exe
+C:\Users\TayIo\source\repos\FlagsHW\obj\Debug\FlagsHW.pdb

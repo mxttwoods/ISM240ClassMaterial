@@ -1,0 +1,10 @@
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.csprojAssemblyReference.cache
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.Form1.resources
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.Properties.Resources.resources
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.csproj.GenerateResource.cache
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.csproj.CoreCompileInputs.cache
+S:\LoopsTestEX3\bin\Debug\LoopsTestEX3.exe.config
+S:\LoopsTestEX3\bin\Debug\LoopsTestEX3.exe
+S:\LoopsTestEX3\bin\Debug\LoopsTestEX3.pdb
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.exe
+S:\LoopsTestEX3\obj\Debug\LoopsTestEX3.pdb

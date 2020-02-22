@@ -1,0 +1,9 @@
+C:\Users\TayIo\source\repos\In class excersize\bin\Debug\In class excersize.exe.config
+C:\Users\TayIo\source\repos\In class excersize\bin\Debug\In class excersize.exe
+C:\Users\TayIo\source\repos\In class excersize\bin\Debug\In class excersize.pdb
+C:\Users\TayIo\source\repos\In class excersize\obj\Debug\In class excersize.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\In class excersize\obj\Debug\In_class_excersize.Form1.resources
+C:\Users\TayIo\source\repos\In class excersize\obj\Debug\In_class_excersize.Properties.Resources.resources
+C:\Users\TayIo\source\repos\In class excersize\obj\Debug\In class excersize.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\In class excersize\obj\Debug\In class excersize.exe
+C:\Users\TayIo\source\repos\In class excersize\obj\Debug\In class excersize.pdb

@@ -1,0 +1,5 @@
+E:\UNCG\C#\celsiustof\obj\Debug\celsiustof.csprojAssemblyReference.cache
+E:\UNCG\C#\celsiustof\obj\Debug\celsiustof.Form1.resources
+E:\UNCG\C#\celsiustof\obj\Debug\celsiustof.Properties.Resources.resources
+E:\UNCG\C#\celsiustof\obj\Debug\celsiustof.csproj.GenerateResource.cache
+E:\UNCG\C#\celsiustof\obj\Debug\celsiustof.csproj.CoreCompileInputs.cache

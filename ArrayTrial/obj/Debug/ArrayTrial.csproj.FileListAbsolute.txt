@@ -1,0 +1,9 @@
+C:\Users\TayIo\source\repos\ArrayTrial\obj\Debug\ArrayTrial.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\ArrayTrial\obj\Debug\ArrayTrial.Form1.resources
+C:\Users\TayIo\source\repos\ArrayTrial\obj\Debug\ArrayTrial.Properties.Resources.resources
+C:\Users\TayIo\source\repos\ArrayTrial\obj\Debug\ArrayTrial.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\ArrayTrial\bin\Debug\ArrayTrial.exe.config
+C:\Users\TayIo\source\repos\ArrayTrial\bin\Debug\ArrayTrial.exe
+C:\Users\TayIo\source\repos\ArrayTrial\bin\Debug\ArrayTrial.pdb
+C:\Users\TayIo\source\repos\ArrayTrial\obj\Debug\ArrayTrial.exe
+C:\Users\TayIo\source\repos\ArrayTrial\obj\Debug\ArrayTrial.pdb

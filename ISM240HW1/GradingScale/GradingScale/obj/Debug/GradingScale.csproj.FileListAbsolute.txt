@@ -1,0 +1,10 @@
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\bin\Debug\GradingScale.exe.config
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\bin\Debug\GradingScale.exe
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\bin\Debug\GradingScale.pdb
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.Form1.resources
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.Properties.Resources.resources
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.csproj.CoreCompileInputs.cache
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.exe
+C:\Users\TayIo\source\repos\GradingScale\GradingScale\obj\Debug\GradingScale.pdb

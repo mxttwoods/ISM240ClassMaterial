@@ -1,0 +1,10 @@
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.Form1.resources
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.Properties.Resources.resources
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.csproj.CoreCompileInputs.cache
+C:\Users\TayIo\source\repos\ReadandWrite\bin\Debug\ReadandWrite.exe.config
+C:\Users\TayIo\source\repos\ReadandWrite\bin\Debug\ReadandWrite.exe
+C:\Users\TayIo\source\repos\ReadandWrite\bin\Debug\ReadandWrite.pdb
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.exe
+C:\Users\TayIo\source\repos\ReadandWrite\obj\Debug\ReadandWrite.pdb

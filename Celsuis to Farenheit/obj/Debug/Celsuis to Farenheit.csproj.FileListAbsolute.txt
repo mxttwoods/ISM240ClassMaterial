@@ -1,0 +1,5 @@
+C:\Users\TayIo\Google Drive\UNCG\C#\Celsuis to Farenheit\obj\Debug\Celsuis to Farenheit.csprojAssemblyReference.cache
+C:\Users\TayIo\Google Drive\UNCG\C#\Celsuis to Farenheit\obj\Debug\Celsuis_to_Farenheit.Form1.resources
+C:\Users\TayIo\Google Drive\UNCG\C#\Celsuis to Farenheit\obj\Debug\Celsuis_to_Farenheit.Properties.Resources.resources
+C:\Users\TayIo\Google Drive\UNCG\C#\Celsuis to Farenheit\obj\Debug\Celsuis to Farenheit.csproj.GenerateResource.cache
+C:\Users\TayIo\Google Drive\UNCG\C#\Celsuis to Farenheit\obj\Debug\Celsuis to Farenheit.csproj.CoreCompileInputs.cache

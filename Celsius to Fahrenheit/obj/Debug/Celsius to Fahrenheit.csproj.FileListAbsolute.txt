@@ -1,0 +1,10 @@
+E:\UNCG\C#\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+E:\UNCG\C#\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+E:\UNCG\C#\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csprojAssemblyReference.cache
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius_to_Fahrenheit.Form1.resources
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius_to_Fahrenheit.Properties.Resources.resources
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csproj.GenerateResource.cache
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+E:\UNCG\C#\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

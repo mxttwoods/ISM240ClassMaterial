@@ -1,0 +1,9 @@
+C:\Users\TayIo\source\repos\inclassex9\bin\Debug\inclassex9.exe.config
+C:\Users\TayIo\source\repos\inclassex9\bin\Debug\inclassex9.exe
+C:\Users\TayIo\source\repos\inclassex9\bin\Debug\inclassex9.pdb
+C:\Users\TayIo\source\repos\inclassex9\obj\Debug\inclassex9.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\inclassex9\obj\Debug\inclassex9.Form1.resources
+C:\Users\TayIo\source\repos\inclassex9\obj\Debug\inclassex9.Properties.Resources.resources
+C:\Users\TayIo\source\repos\inclassex9\obj\Debug\inclassex9.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\inclassex9\obj\Debug\inclassex9.exe
+C:\Users\TayIo\source\repos\inclassex9\obj\Debug\inclassex9.pdb

@@ -1,0 +1,10 @@
+C:\Users\TayIo\source\repos\DataBaseExample\bin\Debug\Database1.mdf
+C:\Users\TayIo\source\repos\DataBaseExample\bin\Debug\Database1_log.ldf
+C:\Users\TayIo\source\repos\DataBaseExample\bin\Debug\DataBaseExample.exe.config
+C:\Users\TayIo\source\repos\DataBaseExample\bin\Debug\DataBaseExample.exe
+C:\Users\TayIo\source\repos\DataBaseExample\bin\Debug\DataBaseExample.pdb
+C:\Users\TayIo\source\repos\DataBaseExample\obj\Debug\DataBaseExample.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\DataBaseExample\obj\Debug\DataBaseExample.Properties.Resources.resources
+C:\Users\TayIo\source\repos\DataBaseExample\obj\Debug\DataBaseExample.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\DataBaseExample\obj\Debug\DataBaseExample.exe
+C:\Users\TayIo\source\repos\DataBaseExample\obj\Debug\DataBaseExample.pdb

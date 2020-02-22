@@ -1,0 +1,10 @@
+C:\Users\TayIo\source\repos\GradeBookCalculator\bin\Debug\GradeBookCalculator.exe.config
+C:\Users\TayIo\source\repos\GradeBookCalculator\bin\Debug\GradeBookCalculator.exe
+C:\Users\TayIo\source\repos\GradeBookCalculator\bin\Debug\GradeBookCalculator.pdb
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.csprojAssemblyReference.cache
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.Form1.resources
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.Properties.Resources.resources
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.csproj.GenerateResource.cache
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.csproj.CoreCompileInputs.cache
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.exe
+C:\Users\TayIo\source\repos\GradeBookCalculator\obj\Debug\GradeBookCalculator.pdb
