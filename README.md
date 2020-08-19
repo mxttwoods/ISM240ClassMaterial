@@ -9,8 +9,8 @@
 
 ## Summary 
 
-This repo contains serveral beginner C# apps and scratch files that were used during my ISM240 Business Programming Class at UNCG. 
-This class served as a introductory to C programming and was a great stepping stone in my career. 
+This repository contains serveral beginner C# applications and scratch files that were used during my ISM240 Business Programming class at UNCG. 
+This class served as a introductory to C programming and object-oriented languages. 
 
 ### Built With
 
