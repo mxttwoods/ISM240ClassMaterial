@@ -1,6 +1,6 @@
 # uncg-ism240-csharp
 <p align="center">
-  <a href="https://bryan.uncg.edu/" target="blank"><img src="https://bryan.uncg.edu/wp-content/uploads/2017/08/uncgreensboro.png" width="120" alt="Bryan Logo" /></a>
+  <a href="https://bryan.uncg.edu/" target="blank"><img src="https://bryan.uncg.edu/wp-content/uploads/2017/08/uncgreensboro.png" alt="Bryan Logo" /></a>
 </p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/mxttwoods/uncg-ism240-csharp)
