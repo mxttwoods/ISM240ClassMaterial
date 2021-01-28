@@ -1,21 +1,25 @@
-# uncg-ism240-csharp
+# UNCG C# Archive
+
 <p align="center">
-  <a href="https://bryan.uncg.edu/" target="blank"><img src="https://www.alumni.uncg.edu/s/1659/images/gid2/editor/events/fullnamebaevcolor.png" alt="Bryan Logo" /></a>
+  <a href="https://bryan.uncg.edu/" target="blank"><img src="https://www.alumni.uncg.edu/s/1659/images/gid2/editor/events/fullnamebaevcolor.png" alt="Bryan Logo" width="325"/></a>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mxttwoods/uncg-ism240-csharp)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mxttwoods/uncg-ism240-csharp)
-![GitHub last commit](https://img.shields.io/github/last-commit/mxttwoods/uncg-ism240-csharp)
+## Summary
 
-## Summary 
+This repository contains several beginner C# applications and scratch files that
+were used during my ISM240 Business Programming class at UNCG circa 2018. This
+class served as a introductory to C programming and object-oriented languages.
 
-This repository contains serveral beginner C# applications and scratch files that were used during my ISM240 Business Programming class at UNCG. 
-This class served as a introductory to C programming and object-oriented languages. 
+### Purpose
 
-### Built With
+- I keep this project to remind me how much I have grown as a developer.
+- I haven't committed a major change to this repository since I created it
+  during my junior year.
 
-- C#  
-- Visual Studio 
+## Built With
+
+- C#
+- Visual Studio
 
 ## Authors
 
@@ -23,4 +27,5 @@ This class served as a introductory to C programming and object-oriented languag
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for
+details
